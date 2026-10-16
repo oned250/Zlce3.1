@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Feedback and test archives
+zlce-feedback/
+*.zip
+*.log
+
+# Editor configs
+.vscode/
+.idea/
+*.swp

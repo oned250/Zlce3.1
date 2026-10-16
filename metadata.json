@@ -1,0 +1,6 @@
+{
+  "name": "ZLCE Studio v3.2 - Context Engineering Suite",
+  "description": "Suite interaktif Zero-Loss Context Engineering (ZLCE) v3.2: audit hasil pengujian kit, inspeksi perbaikan aturan jam X1, validator SESSION_STATE, simulator recovery kasus A-D, dan bundler ZLCE_KIT_SINGLE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
